@@ -8,7 +8,7 @@
 
 // container
 .container {
-  @apply mx-auto max-w-[1320px] px-4;
+  @apply mx-auto max-w-[1620px] px-4;
 }
 
 // form style
@@ -174,3 +174,36 @@
   @apply prose-tr:border-border prose-tr:dark:border-darkmode-border;
   @apply prose-td:relative prose-td:z-10 prose-td:px-3 prose-td:py-[18px] prose-td:dark:text-darkmode-text;
 }
+
+
+//hero-text
+
+// .hero {
+//   position: absolute;
+//   top: 33%;
+//   left: 150%; /* Adjust the distance from the left */
+//   transform: translateY(-50%);
+//   color: white;
+//   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+// }
+
+// .hero h1 {
+//   font-size: 2rem;
+//   margin: 0 0 20px;
+// }
+
+// .hero p {
+//   font-size: 1.2rem;
+//   margin: 0 0 20px;
+// }
+
+// .hero button {
+//   padding: 12px 24px;
+//   font-size: 1rem;
+//   background-color: #007BFF;
+//   color: white;
+//   border: none;
+//   border-radius: 4px;
+//   cursor: pointer;
+//   transition: background-color 0.3s ease;
+// }

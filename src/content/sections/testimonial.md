@@ -1,27 +1,26 @@
 ---
 enable: true
-title: "What Users Are Saying About Astroplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Astroplate."
+title: "Sta kazu zadovoljne musterije? "
+description: ""
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Nemanja"
+    designation: "Test"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Vrata su odlicna i jeftina."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Milos"
+    designation: "Test"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Zadovoljan sam kvaliteom."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Stanko"
+    designation: "Test"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
-
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+    content: "Sve preporuke."
+    
+  - name: "Janko"
+    designation: "Test"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
----
+    content: "Prelpa vrata."

@@ -1,16 +1,16 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "",
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Katalog",
+      "url": "/blog"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Kontakt",
+      "url": "/contact"
     },
     {
       "name": "Pages",
@@ -18,12 +18,8 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Contact",
-          "url": "/contact"
-        },
-        {
-          "name": "Blog",
-          "url": "/blog"
+          "name": "Elements",
+          "url": "/elements"
         },
         {
           "name": "Authors",
@@ -36,6 +32,10 @@
         {
           "name": "Tags",
           "url": "/tags"
+        },
+        {
+          "name": "About",
+          "url": "/about"
         },
         {
           "name": "404 Page",
