@@ -4,7 +4,6 @@
     "base_url": "https://durko-stolarija.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "",
     "logo": "/images/logo.png",
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
@@ -16,7 +15,7 @@
     "search": true,
     "sticky_header": true,
     "theme_switcher": false,
-    "default_theme": "system",
+    "default_theme": "light",
     "pagination": 2,
     "summary_length": 200,
     "blog_folder": "blog"
@@ -24,7 +23,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": ""
   },
 
   "navigation_button": {
@@ -35,7 +34,7 @@
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "Durko",
     "settings": {}
   },
 
