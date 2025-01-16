@@ -18,7 +18,9 @@
     "default_theme": "light",
     "pagination": 2,
     "summary_length": 200,
-    "blog_folder": "blog"
+    "blog_folder": "blog",
+    "phone": "true",
+    "phone_number": "tel:+381 62 393 008"
   },
 
   "params": {
@@ -39,8 +41,8 @@
   },
 
   "metadata": {
-    "meta_author": "zeon.studio",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+    "meta_author": "durko stolarija",
+    "meta_image": "/images/banner.jpg",
+    "meta_description": "Durko sobna vrata i kompletna stolarija"
   }
 }

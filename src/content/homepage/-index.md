@@ -6,47 +6,44 @@ banner:
   image: "/images/banner.jpg"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    label: "POGLEDAJTE PONUDU"
+    link: "https://online.fliphtml5.com/ibycn/kyha/#p=1"
 
 # Features
 features:
-  - title: "Neka vrata"
+  - title: "Premium vrata za svaki prostor – Dizajn i izdržljivost u savršenom balansu!"
     image: "/images/a.jpg"
-    content: "Detalji o vratima"
+    content: "Predstavljamo vam vrata od medijapana presvučena vrhunskom CPL laminatnom folijom, koja pruža izuzetno visok nivo zaštite površine. Sa italijanskim dizajnom i modernom magnetnom bravom uključenom u standardnu ponudu, ovaj model je savršen spoj elegancije i funkcionalnosti."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Izuzetna izdržljivost – Pogodna za stambene, poslovne i javne objekte, čak i uz intenzivnu upotrebu"
+      - " Savršen odnos cene i kvaliteta – Dizajnirana da zadovolje najviše standarde po pristupačnoj ceni."
+      - "Univerzalna primena – Idealna za prostore koji zahtevaju pouzdanost i stil."
+      - "Unesite sofisticiranost i trajnost u vaš prostor uz vrata koja ostavljaju utisak!"
+
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Neka vrata"
+  # - title: "Prirodna elegancija za vaš prostor – Vrata koja osvajaju stilom i kvalitetom!"
+  #   image: "/images/c.jpg"
+  #   content: "Naša vrata, izrađena od drveta i medijapana, završno obložena vrhunskim furnirom hrasta ili oraha, predstavljaju savršen spoj prirodne lepote i moderne funkcionalnosti. Izaberite između vertikalne ili horizontalne orijentacije godova kako biste upotpunili izgled vašeg enterijera."
+  #   bulletpoints:
+  #     - "Prirodna toplina drveta – Furnir hrasta ili oraha za klasičnu ili savremenu estetiku."
+  #     - "Izuzetna čvrstoća – Sa drvenim dovratnikom i ramom vratnog krila, osiguravaju dugotrajnost i stabilnost."
+  #     - "Fleksibilnost dizajna – Prilagođena za sve tipove objekata, bilo da je u pitanju prirodan ili moderan stil."
+  #   button:
+  #     enable: true
+  #     label: "Get Started Now"
+  #     link: "https://github.com/zeon-studio/astroplate"
+
+  - title: "Prirodna elegancija za vaš prostor – Vrata koja osvajaju stilom i kvalitetom!"
     image: "/images/b.jpg"
-    content: "Detalji o vratima"
-
+    content: "Naša vrata, izrađena od drveta i medijapana, završno obložena vrhunskim furnirom hrasta ili oraha, predstavljaju savršen spoj prirodne lepote i moderne funkcionalnosti. Izaberite između vertikalne ili horizontalne orijentacije godova kako biste upotpunili izgled vašeg enterijera."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
-
-  - title: "Neka vrata"
-    image: "/images/c.jpg"
-    content: "Detalji o vratima"
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Prirodna toplina drveta – Furnir hrasta ili oraha za klasičnu ili savremenu estetiku."
+      - "Izuzetna čvrstoća – Sa drvenim dovratnikom i ramom vratnog krila, osiguravaju dugotrajnost i stabilnost."
+      - "Fleksibilnost dizajna – Prilagođena za sve tipove objekata, bilo da je u pitanju prirodan ili moderan stil."
     button:
       enable: false
       label: ""

@@ -1,26 +1,26 @@
 ---
 enable: true
-title: "Sta kazu zadovoljne musterije? "
+title: "Šta naši kupci kažu o nama?"
 description: ""
 
 # Testimonials
 testimonials:
-  - name: "Nemanja"
-    designation: "Test"
+  - name: "Jovana M. Leskovac"
+    designation: ""
     avatar: "/images/avatar-sm.png"
-    content: "Vrata su odlicna i jeftina."
+    content: "Ova vrata su savršena kombinacija prirodnog izgleda i modernog dizajna! Hrastov furnir izgleda fantastično u mom dnevnom boravku, a kvalitet izrade je zaista na vrhunskom nivou."
 
-  - name: "Milos"
-    designation: "Test"
+  - name: " Marko S. Nis"
+    designation: ""
     avatar: "/images/avatar-sm.png"
-    content: "Zadovoljan sam kvaliteom."
+    content: "Tražio sam vrata koja su izdržljiva i funkcionalna, a pritom elegantna. Vaš model sa furnirom od oraha savršeno se uklopio u moju kancelariju. Definitivno preporučujem!"
 
-  - name: "Stanko"
+  - name: "Ana R. Leskovac"
     designation: "Test"
     avatar: "/images/avatar-sm.png"
-    content: "Sve preporuke."
+    content: "Oduševljena sam kako su vrata transformisala moj prostor! Horizontalni godovi daju poseban pečat, a kvalitet materijala i završne obrade su impresivni. Hvala na vrhunskoj usluzi!"
     
-  - name: "Janko"
-    designation: "Test"
+  - name: "Nikola V. Leskovac"
+    designation: ""
     avatar: "/images/avatar-sm.png"
-    content: "Prelpa vrata."
+    content: "Izgled vrata je jednostavno prelep, a drveni dovratnik i ram daju dodatnu čvrstinu i eleganciju. Sjajno su se uklopila u naš moderan stan i ostavljaju utisak luksuza. Prezadovoljni smo!"
