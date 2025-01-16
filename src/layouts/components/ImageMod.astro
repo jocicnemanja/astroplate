@@ -13,6 +13,10 @@ interface Props {
   format?: "auto" | "avif" | "jpeg" | "png" | "svg" | "webp";
   class?: string;
   style?: any;
+  srcset?: any;
+  sizes?: string;
+  widths?: any;
+  quality? :any;
 }
 
 // Destructuring Astro.props to get the component's props
@@ -26,6 +30,10 @@ let {
   class: className,
   format,
   style,
+  srcset,
+  sizes,
+  widths,
+  quality,
 } = Astro.props;
 
 src = `/public${src}`;
@@ -55,6 +63,10 @@ const isValidPath = images[src] ? true : false;
       class={className}
       format={format}
       style={style}
+      srcset={srcset}
+      sizes={sizes}
+      widths={widths}
+      quality={quality}
     />
   )
 }
