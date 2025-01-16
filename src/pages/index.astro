@@ -2,7 +2,6 @@
 import ImageMod from '@/components/ImageMod.astro';
 import Base from '@/layouts/Base.astro';
 import { markdownify } from '@/lib/utils/textConverter';
-import CallToAction from '@/partials/CallToAction.astro';
 import Testimonial from '@/partials/Testimonial.astro';
 import type { Button, Feature } from '@/types';
 import { getEntry } from 'astro:content';
@@ -61,7 +60,6 @@ const { banner, features }: Homepage = homepage.data;
           />
         )} */}
             <ImageMod
-              loading={'eager'}
               src={banner.image}
               widths={[400, 800, 1200, 1920]}
               sizes='(max-width: 600px) 400px, (max-width: 1200px) 800px, (max-width: 1920px) 1200px, 1920px'
@@ -87,7 +85,6 @@ const { banner, features }: Homepage = homepage.data;
               class={`mb:md-0 mb-6 md:col-5 ${index % 2 !== 0 && 'md:order-2'}`}
             >
               <ImageMod
-                loading={'eager'}
                 src={feature.image}
                 height={480}
                 width={520}
