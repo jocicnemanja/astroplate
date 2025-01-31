@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Durko Stolarija",
+    "title": "DURKO",
     "base_url": "https://durko-stolarija.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -8,11 +8,11 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "",
-    "logo_text": "Durko"
+    "logo_text": "logo"
   },
 
   "settings": {
-    "search": true,
+    "search": false,
     "sticky_header": true,
     "theme_switcher": false,
     "default_theme": "light",
@@ -35,7 +35,7 @@
   },
 
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "Durko",
     "settings": {}
   },

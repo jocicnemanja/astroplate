@@ -1,13 +1,13 @@
 ---
-title: "Vrata"
-meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
-image: "/images/doors-catalog/oak-vertical-p1.png"
-categories: ["Application", "Data"]
+title: "Post 2"
+meta_title: "Meta Title 2"
+description: "Description for Post 2"
+date: 2025-01-28T23:59:31Z
+image: "/images/catalog/2.jpg"
+categories: ["Category1", "Category2"]
 author: "John Doe"
-tags: ["nextjs", "tailwind"]
+tags: ["tag2", "tag"]
 draft: false
 ---
 
-Vrata
+Content of Post 2.
