@@ -4,7 +4,7 @@
     "base_url": "https://durko-stolarija.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
-    "logo": "/images/logo.png",
+    "logo": "/images/logo600x200.png",
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "",

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="300"
+   viewBox="0 0 132.29167 79.374998"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   sodipodi:docname="durko-logo3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.6819304"
+     inkscape:cx="299.95296"
+     inkscape:cy="180.7447"
+     inkscape:window-width="1920"
+     inkscape:window-height="1073"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="42.640437,33.452036"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,7.6283987,0,1 @ F,0,0,1,0,7.6968642,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.825123;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="29.018057"
+       height="46.553593"
+       x="20.236353"
+       y="15.106538" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.768269;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-5"
+       width="27.663839"
+       height="42.334877"
+       x="22.727823"
+       y="15.687796"
+       inkscape:path-effect="#path-effect1"
+       sodipodi:type="rect"
+       d="m 22.727823,15.687796 h 20.035441 a 7.6283987,7.6283987 45 0 1 7.628399,7.628398 l 0,27.009614 a 7.6968642,7.6968642 135 0 1 -7.696865,7.696865 H 22.727823 Z"
+       transform="matrix(0.93120725,0,0,1.0109504,0.70068333,1.3421402)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.818457;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16.19679,63.453712 37.097191,0.116281 v 0"
+       id="path3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.875028;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 13.311449,65.199341 42.867871,0.115016 v 0"
+       id="path3-2" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;white-space:pre;inline-size:3.79279;fill:none;stroke:#000000;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="55.07925"
+       y="20.856441"
+       id="text4" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;letter-spacing:1.32292px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="58.340927"
+       y="38.203087"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-size:14.1111px;letter-spacing:1.32292px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-dasharray:none"
+         x="58.340927"
+         y="38.203087">DURKO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;letter-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="59.559509"
+       y="45.71526"
+       id="text5-7"><tspan
+         sodipodi:role="line"
+         id="tspan5-0"
+         style="font-size:5.64444px;letter-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-dasharray:none"
+         x="59.559509"
+         y="45.71526">STOLARIJA</tspan></text>
+  </g>
+</svg>
