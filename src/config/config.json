@@ -8,7 +8,8 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "",
-    "logo_text": "Durko stolarija"
+    "logo_text": "Durko stolarija",
+    "favicon": "/images/favicon.svg"
   },
 
   "settings": {
@@ -41,7 +42,7 @@
   },
 
   "metadata": {
-    "meta_author": "durko stolarija, Beli potok",
+    "meta_author": "Durko stolarija, Beli potok",
     "meta_image": "/images/banner.jpg",
     "meta_description": "Durko sobna vrata i kompletna stolarija"
   }
