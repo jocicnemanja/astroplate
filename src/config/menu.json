@@ -5,43 +5,12 @@
       "url": "/"
     },
     {
-      "name": "Katalog",
+      "name": "Galerija",
       "url": "/blog"
     },
     {
       "name": "Kontakt",
       "url": "/contact"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "About",
-          "url": "/about"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
-        }
-      ]
     }
   ],
   "footer": [

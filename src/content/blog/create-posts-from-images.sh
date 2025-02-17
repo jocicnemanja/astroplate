@@ -12,8 +12,8 @@ for i in $(seq 1 51); do
     cat > "post-$i.md" <<EOL
 ---
 title: "Post $i"
-meta_title: "Meta Title $i"
-description: "Description for Post $i"
+meta_title: "Sobna vrata"
+description: ""
 date: $(date --date="$i days ago" --utc +"%Y-%m-%dT%H:%M:%SZ")
 image: "/images/catalog/$i.jpg"
 categories: ["Category1", "Category2"]

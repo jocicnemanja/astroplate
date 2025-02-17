@@ -6,8 +6,8 @@ banner:
   image: "/images/banner.jpg"
   button:
     enable: true
-    label: "POGLEDAJTE PONUDU"
-    link: "https://online.fliphtml5.com/ibycn/kyha/#p=1"
+    label: "Galerija radova"
+    link: "/blog"
 
 # Features
 features:
